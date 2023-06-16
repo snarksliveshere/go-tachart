@@ -1,8 +1,15 @@
-module github.com/iamjinlei/go-tachart
+module github.com/snarksliveshere/go-tachart
 
-go 1.13
+go 1.19
 
 require (
+	github.com/iamjinlei/go-tachart v0.0.0-20210729041122-12052a3368c8
 	github.com/iamjinlei/go-tart v0.0.0-20210623083942-ceb57e98706b
 	github.com/stretchr/testify v1.7.0
+)
+
+require (
+	github.com/davecgh/go-spew v1.1.0 // indirect
+	github.com/pmezard/go-difflib v1.0.0 // indirect
+	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
 )
