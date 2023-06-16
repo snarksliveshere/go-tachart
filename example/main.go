@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/iamjinlei/go-tachart/tachart"
+	"github.com/snarksliveshere/go-tachart/tachart"
 )
 
 var (

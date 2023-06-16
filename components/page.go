@@ -1,8 +1,8 @@
 package components
 
 import (
-	"github.com/iamjinlei/go-tachart/opts"
-	"github.com/iamjinlei/go-tachart/render"
+	"github.com/snarksliveshere/go-tachart/opts"
+	"github.com/snarksliveshere/go-tachart/render"
 )
 
 // Charter

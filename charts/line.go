@@ -1,9 +1,9 @@
 package charts
 
 import (
-	"github.com/iamjinlei/go-tachart/opts"
-	"github.com/iamjinlei/go-tachart/render"
-	"github.com/iamjinlei/go-tachart/types"
+	"github.com/snarksliveshere/go-tachart/opts"
+	"github.com/snarksliveshere/go-tachart/render"
+	"github.com/snarksliveshere/go-tachart/types"
 )
 
 // Line represents a line chart.

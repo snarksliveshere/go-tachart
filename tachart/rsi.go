@@ -6,8 +6,8 @@ import (
 
 	"github.com/iamjinlei/go-tart"
 
-	"github.com/iamjinlei/go-tachart/charts"
-	"github.com/iamjinlei/go-tachart/opts"
+	"github.com/snarksliveshere/go-tachart/charts"
+	"github.com/snarksliveshere/go-tachart/opts"
 )
 
 type rsi struct {
